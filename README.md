@@ -3,7 +3,7 @@
  How can you extract a few fields from the given JSON object and from a new array?
  We will need to use the map() method, we will pass the element and then return only the required key from that element
 
-<details><summary><b>Answer</b></summary>
+<!-- <details><summary><b>Answer</b></summary> -->
 
   ```javascript
 const input = {
@@ -47,4 +47,4 @@ const output = input.students.map(function(item) {
 
 console.log(output)
 ```
-</details>
+<!-- </details> -->
